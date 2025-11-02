@@ -1,0 +1,14 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/pulsegym-pro/layout,_N_T_/pulsegym-pro/page,_N_T_/pulsegym-pro/"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/pulsegym-pro/__PAGE__",
+    "/pulsegym-pro",
+    "/_index"
+  ]
+}

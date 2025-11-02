@@ -1,0 +1,235 @@
+module.exports = [
+"[project]/Brocan+Blogs/nextjs-mdx-blog/src/lib/brockman_7091d569.module.css [app-rsc] (css module)", ((__turbopack_context__) => {
+
+__turbopack_context__.v({
+  "className": "brockman_7091d569-module__I1M6SW__className",
+  "variable": "brockman_7091d569-module__I1M6SW__variable",
+});
+}),
+"[project]/Brocan+Blogs/nextjs-mdx-blog/src/lib/brockman_7091d569.js [app-rsc] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$src$2f$lib$2f$brockman_7091d569$2e$module$2e$css__$5b$app$2d$rsc$5d$__$28$css__module$29$__ = __turbopack_context__.i("[project]/Brocan+Blogs/nextjs-mdx-blog/src/lib/brockman_7091d569.module.css [app-rsc] (css module)");
+;
+const fontData = {
+    className: __TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$src$2f$lib$2f$brockman_7091d569$2e$module$2e$css__$5b$app$2d$rsc$5d$__$28$css__module$29$__["default"].className,
+    style: {
+        fontFamily: "'brockman', 'brockman Fallback'"
+    }
+};
+if (__TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$src$2f$lib$2f$brockman_7091d569$2e$module$2e$css__$5b$app$2d$rsc$5d$__$28$css__module$29$__["default"].variable != null) {
+    fontData.variable = __TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$src$2f$lib$2f$brockman_7091d569$2e$module$2e$css__$5b$app$2d$rsc$5d$__$28$css__module$29$__["default"].variable;
+}
+const __TURBOPACK__default__export__ = fontData;
+}),
+"[project]/Brocan+Blogs/nextjs-mdx-blog/src/lib/fonts.ts [app-rsc] (ecmascript) <locals>", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$src$2f$lib$2f$brockman_7091d569$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Brocan+Blogs/nextjs-mdx-blog/src/lib/brockman_7091d569.js [app-rsc] (ecmascript)");
+;
+;
+}),
+"[project]/Brocan+Blogs/nextjs-mdx-blog/src/lib/brockman_7091d569.js [app-rsc] (ecmascript) <export default as brockman>", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "brockman",
+    ()=>__TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$src$2f$lib$2f$brockman_7091d569$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"]
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$src$2f$lib$2f$brockman_7091d569$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Brocan+Blogs/nextjs-mdx-blog/src/lib/brockman_7091d569.js [app-rsc] (ecmascript)");
+}),
+"[project]/Brocan+Blogs/nextjs-mdx-blog/src/components/ClientProviders.tsx [app-rsc] (ecmascript)", ((__turbopack_context__, module, exports) => {
+
+}),
+"[project]/Brocan+Blogs/nextjs-mdx-blog/src/app/layout.tsx [app-rsc] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>RootLayout,
+    "metadata",
+    ()=>metadata,
+    "viewport",
+    ()=>viewport
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Brocan+Blogs/nextjs-mdx-blog/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$src$2f$lib$2f$fonts$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$locals$3e$__ = __turbopack_context__.i("[project]/Brocan+Blogs/nextjs-mdx-blog/src/lib/fonts.ts [app-rsc] (ecmascript) <locals>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$src$2f$lib$2f$brockman_7091d569$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__brockman$3e$__ = __turbopack_context__.i("[project]/Brocan+Blogs/nextjs-mdx-blog/src/lib/brockman_7091d569.js [app-rsc] (ecmascript) <export default as brockman>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$src$2f$components$2f$ClientProviders$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Brocan+Blogs/nextjs-mdx-blog/src/components/ClientProviders.tsx [app-rsc] (ecmascript)");
+;
+;
+;
+;
+const metadata = {
+    metadataBase: new URL(("TURBOPACK compile-time value", "http://localhost:3001") || 'http://localhost:3000'),
+    title: {
+        default: 'Brocan - Revolutionary Retail Technology Solutions',
+        template: '%s | Brocan'
+    },
+    description: 'Transform your retail business with Brocan\'s integrated POS systems, inventory management, and e-commerce solutions. Streamline operations and boost sales with our cutting-edge retail technology.',
+    keywords: [
+        'retail technology',
+        'POS systems',
+        'inventory management',
+        'e-commerce solutions',
+        'retail software',
+        'point of sale',
+        'business management',
+        'retail automation',
+        'omnichannel retail',
+        'retail analytics'
+    ],
+    authors: [
+        {
+            name: 'Brocan Team'
+        }
+    ],
+    creator: 'Brocan',
+    publisher: 'Brocan',
+    formatDetection: {
+        email: false,
+        address: false,
+        telephone: false
+    },
+    openGraph: {
+        type: 'website',
+        locale: 'en_US',
+        url: '/',
+        siteName: 'Brocan',
+        title: 'Brocan - Revolutionary Retail Technology Solutions',
+        description: 'Transform your retail business with integrated POS systems, inventory management, and e-commerce solutions.',
+        images: [
+            {
+                url: '/images/og-image.jpg',
+                width: 1200,
+                height: 630,
+                alt: 'Brocan - Retail Technology Solutions'
+            }
+        ]
+    },
+    twitter: {
+        card: 'summary_large_image',
+        title: 'Brocan - Revolutionary Retail Technology Solutions',
+        description: 'Transform your retail business with integrated POS systems, inventory management, and e-commerce solutions.',
+        images: [
+            '/images/twitter-image.jpg'
+        ],
+        creator: '@brocan'
+    },
+    robots: {
+        index: true,
+        follow: true,
+        googleBot: {
+            index: true,
+            follow: true,
+            'max-video-preview': -1,
+            'max-image-preview': 'large',
+            'max-snippet': -1
+        }
+    },
+    verification: {
+        google: 'your-google-verification-code',
+        yandex: 'your-yandex-verification-code'
+    }
+};
+const viewport = {
+    themeColor: [
+        {
+            media: '(prefers-color-scheme: light)',
+            color: 'white'
+        },
+        {
+            media: '(prefers-color-scheme: dark)',
+            color: 'black'
+        }
+    ]
+};
+function RootLayout({ children }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("html", {
+        lang: "en",
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("head", {
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
+                        rel: "canonical",
+                        href: ("TURBOPACK compile-time value", "http://localhost:3001") || 'http://localhost:3000'
+                    }, void 0, false, {
+                        fileName: "[project]/Brocan+Blogs/nextjs-mdx-blog/src/app/layout.tsx",
+                        lineNumber: 90,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
+                        rel: "icon",
+                        href: "/favicon.ico",
+                        sizes: "any"
+                    }, void 0, false, {
+                        fileName: "[project]/Brocan+Blogs/nextjs-mdx-blog/src/app/layout.tsx",
+                        lineNumber: 91,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
+                        rel: "icon",
+                        href: "/icon.svg",
+                        type: "image/svg+xml"
+                    }, void 0, false, {
+                        fileName: "[project]/Brocan+Blogs/nextjs-mdx-blog/src/app/layout.tsx",
+                        lineNumber: 92,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
+                        rel: "apple-touch-icon",
+                        href: "/apple-touch-icon.png"
+                    }, void 0, false, {
+                        fileName: "[project]/Brocan+Blogs/nextjs-mdx-blog/src/app/layout.tsx",
+                        lineNumber: 93,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
+                        rel: "manifest",
+                        href: "/manifest.json"
+                    }, void 0, false, {
+                        fileName: "[project]/Brocan+Blogs/nextjs-mdx-blog/src/app/layout.tsx",
+                        lineNumber: 94,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/Brocan+Blogs/nextjs-mdx-blog/src/app/layout.tsx",
+                lineNumber: 89,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("body", {
+                className: `${__TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$src$2f$lib$2f$brockman_7091d569$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__brockman$3e$__["brockman"].variable} antialiased`,
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Brocan$2b$Blogs$2f$nextjs$2d$mdx$2d$blog$2f$src$2f$components$2f$ClientProviders$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                    children: children
+                }, void 0, false, {
+                    fileName: "[project]/Brocan+Blogs/nextjs-mdx-blog/src/app/layout.tsx",
+                    lineNumber: 97,
+                    columnNumber: 9
+                }, this)
+            }, void 0, false, {
+                fileName: "[project]/Brocan+Blogs/nextjs-mdx-blog/src/app/layout.tsx",
+                lineNumber: 96,
+                columnNumber: 7
+            }, this)
+        ]
+    }, void 0, true, {
+        fileName: "[project]/Brocan+Blogs/nextjs-mdx-blog/src/app/layout.tsx",
+        lineNumber: 88,
+        columnNumber: 5
+    }, this);
+}
+}),
+"[project]/Brocan+Blogs/nextjs-mdx-blog/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)", ((__turbopack_context__, module, exports) => {
+"use strict";
+
+module.exports = __turbopack_context__.r("[project]/Brocan+Blogs/nextjs-mdx-blog/node_modules/next/dist/server/route-modules/app-page/module.compiled.js [app-rsc] (ecmascript)").vendored['react-rsc'].ReactJsxDevRuntime; //# sourceMappingURL=react-jsx-dev-runtime.js.map
+}),
+];
+
+//# sourceMappingURL=Brocan%2BBlogs_nextjs-mdx-blog_6a2a17a4._.js.map

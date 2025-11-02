@@ -1,0 +1,22 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/admin/page": "/admin",
+  "/api/admin/create-post/route": "/api/admin/create-post",
+  "/api/admin/posts/[slug]/route": "/api/admin/posts/[slug]",
+  "/api/admin/posts/route": "/api/admin/posts",
+  "/api/auth/login/route": "/api/auth/login",
+  "/api/auth/logout/route": "/api/auth/logout",
+  "/api/auth/verify/route": "/api/auth/verify",
+  "/api/posts/[slug]/route": "/api/posts/[slug]",
+  "/api/posts/route": "/api/posts",
+  "/blog/[slug]/page": "/blog/[slug]",
+  "/blog/page": "/blog",
+  "/favicon.ico/route": "/favicon.ico",
+  "/login/page": "/login",
+  "/page": "/",
+  "/pocketretail/page": "/pocketretail",
+  "/products/page": "/products",
+  "/pulsegym-pro/page": "/pulsegym-pro"
+}

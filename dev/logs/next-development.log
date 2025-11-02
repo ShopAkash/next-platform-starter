@@ -1,0 +1,16 @@
+[00:00:01.709] Server  LOG      ✓ Ready in 1125ms
+[00:00:14.858] Server  LOG      ○ Compiling / ...
+[00:00:17.387] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:18.556] Browser ASSERT  true
+[00:00:18.556] Browser ASSERT  true
+[00:00:18.556] Browser ASSERT  true
+[00:00:18.556] Browser ASSERT  true
+[00:00:18.556] Browser ASSERT  true
+[00:00:30.234] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:31.599] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/images/nextjs-cover.jpg" "received" null
+[00:00:31.623] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/images/react-hooks-cover.jpg" "received" null
+[00:00:31.626] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/images/tailwind-cover.jpg" "received" null
+[00:00:31.709] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/images/nextjs-cover.jpg" "received" null
+[00:00:31.715] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/images/react-hooks-cover.jpg" "received" null
+[00:00:31.719] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/images/tailwind-cover.jpg" "received" null
+[00:00:40.617] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

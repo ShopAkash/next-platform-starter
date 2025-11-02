@@ -1,0 +1,91 @@
+1:"$Sreact.fragment"
+2:I[99204,["/_next/static/chunks/d212162768abf160.js","/_next/static/chunks/4a6b15d1aa014cc7.js","/_next/static/chunks/1cf91e1ed56eee9d.js","/_next/static/chunks/5e2fe2c09ae42dc4.js"],"default"]
+3:I[14027,["/_next/static/chunks/d212162768abf160.js","/_next/static/chunks/4a6b15d1aa014cc7.js","/_next/static/chunks/1cf91e1ed56eee9d.js","/_next/static/chunks/5e2fe2c09ae42dc4.js"],""]
+a:I[14064,["/_next/static/chunks/d212162768abf160.js","/_next/static/chunks/4a6b15d1aa014cc7.js","/_next/static/chunks/1cf91e1ed56eee9d.js","/_next/static/chunks/5e2fe2c09ae42dc4.js"],"Image"]
+12:I[94225,["/_next/static/chunks/063e527dbec50fc3.js","/_next/static/chunks/1e5baf3b48201a33.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+0:{"buildId":"uPZPYb0hp3GfiG-gyZXuJ","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-background","children":[["$","$L2",null,{}],["$","header",null,{"className":"sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60","children":["$","div",null,{"className":"container flex h-16 items-center justify-between px-4","children":[["$","$L3",null,{"href":"/","className":"flex items-center space-x-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"h-6 w-6 text-primary","children":[["$","path","rklqx2",{"d":"m12 19 7-7 3 3-7 7-3-3z"}],["$","path","1et58u",{"d":"m18 13-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"}],["$","path","etlp93",{"d":"m2 2 7.586 7.586"}],["$","circle","xmgehs",{"cx":"11","cy":"11","r":"2"}],"$undefined"]}],["$","span",null,{"className":"text-xl font-bold","children":"MDX Blog"}]]}],["$","nav",null,{"className":"flex items-center space-x-1","children":[["$","$L3",null,{"href":"/","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-accent hover:text-accent-foreground h-9 rounded-md px-3 flex items-center space-x-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"h-4 w-4","children":[["$","path","y5dka4",{"d":"m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"}],["$","polyline","e2us08",{"points":"9 22 9 12 15 12 15 22"}],"$undefined"]}],["$","span",null,{"children":"Home"}]],"ref":null}],["$","$L3",null,{"href":"/blog","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-accent hover:text-accent-foreground h-9 rounded-md px-3 flex items-center space-x-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"h-4 w-4","children":[["$","path","vv98re",{"d":"M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"}],["$","path","1cyq3y",{"d":"M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"}],"$undefined"]}],["$","span",null,{"children":"Blog"}]],"ref":null}],["$","$L3",null,{"href":"/admin","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-accent hover:text-accent-foreground h-9 rounded-md px-3 flex items-center space-x-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"h-4 w-4","children":[["$","path","1qme2f",{"d":"M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"}],"$L4","$undefined"]}],"$L5"],"ref":null}]]}]]}]}],"$L6","$L7"]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
+4:["$","circle","1v7zrd",{"cx":"12","cy":"12","r":"3"}]
+5:["$","span",null,{"children":"Admin"}]
+6:["$","main",null,{"className":"container mx-auto px-4 py-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Mastering React Hooks\",\"description\":\"A comprehensive guide to React Hooks and how to use them effectively\",\"image\":\"http://localhost:3001/images/react-hooks-cover.jpg\",\"author\":{\"@type\":\"Person\",\"name\":\"Jane Smith\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"MDX Blog\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"http://localhost:3001/logo.png\"}},\"datePublished\":\"2024-10-28\",\"dateModified\":\"2024-10-28\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"http://localhost:3001/blog/mastering-react-hooks\"},\"keywords\":\"react, hooks, javascript, frontend\",\"articleSection\":\"React\",\"wordCount\":229,\"url\":\"http://localhost:3001/blog/mastering-react-hooks\",\"isPartOf\":{\"@type\":\"Blog\",\"name\":\"MDX Blog\",\"url\":\"http://localhost:3001\"}}"}}],["$","article",null,{"className":"max-w-4xl mx-auto space-y-8","children":[["$","$L3",null,{"href":"/blog","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 hover:bg-accent hover:text-accent-foreground h-10 px-4 py-2 mb-6 flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"h-4 w-4","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Back to Blog"],"ref":null}],["$","div",null,{"className":"relative h-64 md:h-96 w-full rounded-lg overflow-hidden","children":["$","$La",null,{"src":"/images/react-hooks-cover.jpg","alt":"Mastering React Hooks","fill":true,"className":"object-cover","priority":true}]}],["$","header",null,{"className":"space-y-6","children":[["$","div",null,{"className":"space-y-4","children":[["$","h1",null,{"className":"text-4xl md:text-5xl font-bold tracking-tight","children":"Mastering React Hooks"}],["$","p",null,{"className":"text-xl text-muted-foreground leading-relaxed","children":"A comprehensive guide to React Hooks and how to use them effectively"}]]}],["$","div",null,{"className":"rounded-lg border bg-card text-card-foreground shadow-sm","children":["$","div",null,{"className":"p-6","children":[["$","div",null,{"className":"flex flex-wrap items-center gap-6 text-sm text-muted-foreground","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"h-4 w-4","children":[["$","rect","eu3xkr",{"width":"18","height":"18","x":"3","y":"4","rx":"2","ry":"2"}],["$","line","m3sa8f",{"x1":"16","x2":"16","y1":"2","y2":"6"}],["$","line","18kwsl",{"x1":"8","x2":"8","y1":"2","y2":"6"}],["$","line","xt86sb",{"x1":"3","x2":"21","y1":"10","y2":"10"}],"$undefined"]}],["$","time",null,{"dateTime":"2024-10-28","children":"October 28, 2024"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"h-4 w-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"children":"Jane Smith"}]]}],"$undefined"]}],["$","div",null,{"className":"flex flex-wrap items-center gap-2 mt-4","children":[["$","div",null,{"className":"rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-secondary text-secondary-foreground hover:bg-secondary/80 flex items-center gap-1","children":["$Lb","React"]}],["$Lc","$Ld","$Le","$Lf"]]}]]}]}]]}],"$L10","$L11"]}]]}]
+7:["$","footer",null,{"className":"border-t bg-muted/50 mt-16","children":["$","div",null,{"className":"container mx-auto px-4 py-8","children":["$","div",null,{"className":"text-center text-muted-foreground","children":["$","p",null,{"children":"© 2024 MDX Blog. Built with Next.js, MDX, and shadcn/ui."}]}]}]}]
+8:["$","script","script-0",{"src":"/_next/static/chunks/5e2fe2c09ae42dc4.js","async":true}]
+9:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+b:["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"h-3 w-3","children":[["$","path","14b2ls",{"d":"M12 2H2v10l9.29 9.29c.94.94 2.48.94 3.42 0l6.58-6.58c.94-.94.94-2.48 0-3.42L12 2Z"}],["$","path","7u93v4",{"d":"M7 7h.01"}],"$undefined"]}]
+c:["$","div","react",{"className":"inline-flex items-center rounded-full border px-2.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-foreground text-xs","children":["#","react"]}]
+d:["$","div","hooks",{"className":"inline-flex items-center rounded-full border px-2.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-foreground text-xs","children":["#","hooks"]}]
+e:["$","div","javascript",{"className":"inline-flex items-center rounded-full border px-2.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-foreground text-xs","children":["#","javascript"]}]
+f:["$","div","frontend",{"className":"inline-flex items-center rounded-full border px-2.5 py-0.5 font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-foreground text-xs","children":["#","frontend"]}]
+15:T656,
+# Mastering React Hooks
+
+React Hooks revolutionized how we write React components. Let's dive deep into the most important hooks and learn how to use them effectively.
+
+## useState Hook
+
+The `useState` hook is the foundation of state management in functional components:
+
+```jsx
+import { useState } from 'react';
+
+function Counter() {
+  const [count, setCount] = useState(0);
+  
+  return (
+    <div>
+      <p>Count: {count}</p>
+      <button onClick={() => setCount(count + 1)}>
+        Increment
+      </button>
+    </div>
+  );
+}
+```
+
+<Alert type="warning">
+Remember to always use the setter function returned by useState, never mutate state directly!
+</Alert>
+
+## useEffect Hook
+
+The `useEffect` hook handles side effects in your components:
+
+```jsx
+import { useEffect, useState } from 'react';
+
+function UserProfile({ userId }) {
+  const [user, setUser] = useState(null);
+  
+  useEffect(() => {
+    fetchUser(userId).then(setUser);
+  }, [userId]);
+  
+  return user ? <div>{user.name}</div> : <div>Loading...</div>;
+}
+```
+
+## Custom Hooks
+
+Create your own hooks to share logic between components:
+
+```jsx
+function useLocalStorage(key, initialValue) {
+  const [value, setValue] = useState(() => {
+    const item = localStorage.getItem(key);
+    return item ? JSON.parse(item) : initialValue;
+  });
+  
+  const setStoredValue = (newValue) => {
+    setValue(newValue);
+    localStorage.setItem(key, JSON.stringify(newValue));
+  };
+  
+  return [value, setStoredValue];
+}
+```
+
+<Button href="/blog/getting-started-with-nextjs">
+Read Previous Post
+</Button>10:["$","div",null,{"className":"prose prose-lg max-w-none dark:prose-invert","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$15"}}]}]
+11:["$","div",null,{"className":"rounded-lg border text-card-foreground shadow-sm bg-muted/50","children":["$","div",null,{"className":"p-6 text-center py-8","children":[["$","h3",null,{"className":"text-lg font-semibold mb-2","children":"Enjoyed this post?"}],["$","p",null,{"className":"text-muted-foreground mb-4","children":"Check out more articles on our blog"}],["$","$L3",null,{"href":"/blog","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 bg-primary text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2 flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"h-4 w-4","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Back to Blog"],"ref":null}]]}]}]
+14:null

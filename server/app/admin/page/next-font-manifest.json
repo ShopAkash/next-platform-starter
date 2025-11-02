@@ -1,0 +1,10 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/Brocan+Blogs/nextjs-mdx-blog/src/app/admin/page": [
+      "static/media/brockmann_medium_webfont-s.p.c89adc78.ttf"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

@@ -1,0 +1,27 @@
+/* [project]/Brocan+Blogs/nextjs-mdx-blog/src/lib/brockman_7091d569.module.css [app-client] (css) */
+@font-face {
+  font-family: brockman;
+  src: url("../media/brockmann_medium_webfont-s.p.c89adc78.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: brockman Fallback;
+  src: local(Arial);
+  ascent-override: 89.3%;
+  descent-override: 24.0%;
+  line-gap-override: 0.0%;
+  size-adjust: 109.18%;
+}
+
+.brockman_7091d569-module__I1M6SW__className {
+  font-family: brockman, brockman Fallback;
+}
+
+.brockman_7091d569-module__I1M6SW__variable {
+  --font-brockman: "brockman", "brockman Fallback";
+}
+
+/*# sourceMappingURL=Brocan%2BBlogs_nextjs-mdx-blog_src_lib_brockman_7091d569_module_css_bad6b30c._.single.css.map*/
